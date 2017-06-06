@@ -1,0 +1,17 @@
+div {
+	float:left;
+	width:200px;
+	height:100px;
+	margin:20px;
+	background-image: url("roses.JPG");
+	background-size:cover;
+	border-color:black;
+	border-width: 10px;
+}
+
+@media all and (max-width: 800px) {
+	.abcd {
+		background-image: url("adk2.jpg")
+		border:none;
+	}
+}

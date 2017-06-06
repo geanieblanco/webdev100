@@ -1,0 +1,32 @@
+html {
+	background-color: #white;
+	font-family: helvetica, sans-serif;
+	color: black;
+	background-image: url(asbury.jpg);
+	background-repeat: no-repeat;
+	background-position: fill;
+	
+}
+
+h1 {
+	text-align: center;
+}
+
+.intro {
+	text-align: center;
+	font-size: 11px;
+	width: 200px;
+	margin-left: 400px;
+	background-color:#96CDCD;
+	padding:4px;
+
+}
+
+.paragraph2 {
+
+
+}
+
+nav {
+	list-style: none;
+}
